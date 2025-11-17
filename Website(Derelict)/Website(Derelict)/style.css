@@ -1,0 +1,40 @@
+body {
+    background: #0d0d0d;
+    color: #e5e5e5;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background: #111;
+}
+
+.hero {
+    background: url('') center/cover no-repeat;
+    padding: 40px 0;
+    border-bottom: 4px solid #900;
+}
+
+.section-title {
+    color: #d00;
+    border-bottom: 2px solid #900;
+    margin-bottom: 16px;
+}
+
+.card {
+    background: #1a1a1a;
+    border: 1px solid #800;
+}
+
+.card img {
+    height: 160px;
+    object-fit: cover;
+    background: #222;
+}
+
+footer {
+    background: #111;
+    color: #888;
+    padding: 16px 0;
+    margin-top: 40px;
+    text-align: center;
+}
